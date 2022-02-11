@@ -1,7 +1,5 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v2.0
-versionCode=10
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+id=vold-exFAT
+name=Vold - exFAT Support for OTG - Pixel 6Pro
+version=1.0.0
+author=jimbo77 @ xda
+description=Add exFAT filesystem support for OTG Devices for Pixel (probably other devices) running Android 12+
